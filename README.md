@@ -1,5 +1,5 @@
-# State-wise Neural Architecture Search
-This repository provides the implementation of the method proposed in our paper [State-wise Neural Architecture Search](https://arxiv.org/pdf/2004.11178.pdf). Our method discovers competitive and high-performance architectures by exploring one order of magnitude fewer models compared to other approaches, as shown in the figure below. In addition, our method is the most resource-efficient as it designs architectures in a few hours on a single GPU.
+# State-Wise Neural Architecture Search
+This repository provides the implementation of the method proposed in our paper [State-Wise Neural Architecture Search](https://arxiv.org/pdf/2004.11178.pdf). Our method discovers competitive and high-performance architectures by exploring one order of magnitude fewer models compared to other approaches, as shown in the figure below. In addition, our method is the most resource-efficient as it designs architectures in a few hours on a single GPU.
 
 <img src="/Figures/Main2.svg">
 
@@ -38,7 +38,7 @@ author    = {Artur Jordao,
 Fernando Yamada,
 Maiko Lie and
 William Robson Schwartz},
-title     = {State-wise Neural Architecture Search},
+title     = {State-Wise Neural Architecture Search},
 booktitle = {International Conference on Pattern Recognition (ICPR). Accepted for publication.},
 }
 ```
