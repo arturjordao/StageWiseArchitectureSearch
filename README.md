@@ -39,6 +39,6 @@ Fernando Yamada,
 Maiko Lie and
 William Robson Schwartz},
 title     = {Stage-Wise Neural Architecture Search},
-booktitle = {International Conference on Pattern Recognition (ICPR). Accepted for publication.},
+booktitle = {International Conference on Pattern Recognition (ICPR).},
 }
 ```
